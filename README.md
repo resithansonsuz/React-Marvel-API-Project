@@ -1,16 +1,15 @@
-# week3 case
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7350213&assignment_repo_type=AssignmentRepo)
+# week3-assignment
 
-https://developer.marvel.com/ API ını kullanarak geçen hafta ki çalışmanızı devam ettirmeniz istenmektedir.
-
-**HEDEF** : Bir React.JS projesi içerisinde API a istek atarak belirli dataları göstermek ve sayfalamak.
-
-**İsterler**
-++ Api üzerinde bulunan pagination yapısı ile projenizde pagination yapmanız istenmektedir. Her sayfa değişiminde istek atılarak o sayfaya ait data gelecektir. Ancak geri dönüldüğünde **local storage % session storage** üzerinden data alınması sağlanmalıdır. Sayfada geri dönüldüğünde istek atılmamalıdır.
-
-++ useEffect, useState hooks kullanımına özen gösterilmelidir.
-
-++ Axios kullanmanız önerilir.
-
-++ CSS, HTML, JS ile devam edeceğiz. Projenizde ekstra CSS sablonları v.s kullanmayınız.
+*My Marvel-API-Project*
 
 
+![banner resmi](public/screen1.png)
+
+![banner resmi](public/screen2.png)
+
+![banner resmi](public/screen3.png)
+
+![banner resmi](public/screen4.jpg)
+
+![banner resmi](public/screen5.jpg)
